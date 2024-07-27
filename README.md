@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Arezoo Safari</h1>
 <p align="left">I am currently seeking a career change and aiming to secure a position as a "Front End Developer (ReactJS)".</p>
-<p align="left">I am highly motivated and possess exceptional learning abilities. I have completed various courses in JavaScript, React, Next.js, and other related subjects within this field.</p>
+<p align="left">I am highly motivated and possess exceptional learning abilities. I have completed various courses in JavaScript, ReactJS, and other related subjects within this field.</p>
 <p align="left">I continuously strive to enhance my skills and knowledge on a daily basis.</p>
 
 
