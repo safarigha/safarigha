@@ -1,8 +1,5 @@
 <h1 align="center">Hi 👋, I'm Arezoo Safari</h1>
-<p align="left">I am currently seeking a career change and aiming to secure a position as a "Front End Developer (ReactJS)".</p>
-<p align="left">I am highly motivated and possess exceptional learning abilities. I have completed various courses in JavaScript, ReactJS, and other related subjects within this field.</p>
-<p align="left">I continuously strive to enhance my skills and knowledge on a daily basis.</p>
-
+<p align="left">Full-Stack Developer specializing in .NET and modern Frontend ecosystems (React, Angular, TypeScript). With proven experience in enterprise-grade workflow and BPM systems, I bridge the gap between robust backend architectures (C#, EF Core, SQL Server) and dynamic, user-centric web applications. Driven by clean code, performance optimization, and continuous learning.</p>
 
 - 💻 **Backend:** C#, .NET 8 / ASP.NET Core, EF Core, RESTful APIs, Clean Architecture
 - 🗄️ **Database:** SQL Server, T-SQL, Query Optimization, Database Design
