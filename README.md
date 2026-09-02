@@ -69,4 +69,11 @@
   <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/>
   </a>
+  <a href="https://www.soapui.org/" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/postman.svg" alt="soapui" width="40" height="40"/>
+</a>
+<a href="https://www.soapui.org/" target="_blank" rel="noreferrer">
+  <img src="https://cdn.jsdelivr.net/gh/walkxcode/dashboard-icons/svg/soapui.svg" alt="SoapUI" width="40" height="40"/>
+</a>
+
 </p>
